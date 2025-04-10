@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">👋 ¡Hola! Soy FREYMAN ADNDRES REYES ANAYA de Cúcuta - Colombia.<br><br>- 🔭 Actualmente estoy trabajando como [tu rol actual, ej. Desarrollador Full Stack]  <br>- 📚 Estoy aprendiendo sobre [tema que estás estudiando, ej. inteligencia artificial, C#, etc.]  <br>- ⚡ En mi tiempo libre me gusta [pasatiempo, ej. jugar videojuegos, leer, programar proyectos personales, etc.]  <br>- ⛪ Soy parte activa de la iglesia pentecostal unida de colombia<br><br>❤️ **"Mas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros."**  <br>_Romanos 5:8_<br><br>🚀 Me apasiona crear cosas útiles y aprender nuevas tecnologías cada día.  <br>💬 ¡No dudes en contactarme si quieres colaborar o simplemente charlar sobre tecnología o la fe!</p>
+<p align="left">👋 ¡Hola! Soy FREYMAN ADNDRES REYES ANAYA de Cúcuta - Colombia.<br><br>- 🔭 Actualmente estoy trabajando como Desarrollador Full Stack  <br>- 📚 Estoy aprendiendo sobre microservicios <br>- ⚡ En mi tiempo libre me gusta leer, programar proyectos personales y dedicar tiempo a mi vida espiritual <br>- ⛪ Soy parte activa de la iglesia pentecostal unida de colombia<br><br>❤️ **"Mas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros."**  <br>_Romanos 5:8_<br><br>🚀 Me apasiona crear cosas útiles y aprender nuevas tecnologías cada día.  <br>💬 ¡No dudes en contactarme si quieres colaborar o simplemente charlar sobre tecnología o la fe!</p>
 
 ###
 
